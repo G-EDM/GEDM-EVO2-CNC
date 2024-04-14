@@ -33,5 +33,5 @@ In order to do those milling jobs it may require a second ballscrew on the left 
 
 Not fully finished:
 
-<img src="./media/images/gantry-1.png">
+<img src="./media/images/gantry-1.jpg">
 
