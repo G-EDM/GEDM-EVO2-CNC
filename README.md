@@ -35,3 +35,33 @@ Not fully finished:
 
 <img src="./media/images/gantry-1.jpg">
 
+
+
+
+# License
+
+    All files provided are for private use only if not declared otherwise and any form of commercial use or redistribution of the protected files is prohibited. 
+    
+
+    
+    
+# Follow the project:
+
+[>>> Follow the project on Youtube <<<](https://www.youtube.com/@G-EDM/videos)
+
+[>>> Stay informed on Hackaday <<<](https://hackaday.io/project/190371-g-edm)
+
+[>>> Get involved on Discord <<<](https://discord.gg/9cTsyDkEbe)
+
+
+
+
+# Donations
+
+    * Developement is not always as fast as it could be if you're poor. You want to donate something? 
+    * Paypal: paypal.me/gedmdev
+    * Bitcoin: bc1q9akp00a5hceh9n3jc9wfttxuwuk9c7da0sqkr8
+    * Donations will be used for yoga stress relief sessions with joss sticks, thai massages, medication, therapy and burnout treatment
+    
+<img src="https://raw.githubusercontent.com/G-EDM/G-EDM/main/images/artwork/donations/donate.png">
+
