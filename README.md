@@ -44,7 +44,7 @@ In order to do those milling jobs it may require a second ballscrew on the left 
 
 
 
-Not fully finished:
+Not fully finished. Z axis is still missing and the massive aluminum plate on the front is temporary.
 
 <img src="./media/images/gantry-1.jpg">
 
