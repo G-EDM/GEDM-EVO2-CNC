@@ -15,6 +15,14 @@ Gantry based 3 axis CNC router with heavy duty 3d printed parts
 ```
 
 
+# Responsible for the content provided
+    Lautensack Roland (Germany)
+    Contact: goblin-dev@proton.me
+
+
+
+
+
 # This project is still a work in progress and not fully finished yet
 
 The GEDM-EVO2 Router uses heavy duty 3D printed parts, strong HGR20 linear rails, ballscrews and heavy profiles.
@@ -39,6 +47,16 @@ In order to do those milling jobs it may require a second ballscrew on the left 
 Not fully finished:
 
 <img src="./media/images/gantry-1.jpg">
+
+
+
+
+
+# Legal notes
+
+    The author of this project is in no way responsible for whatever people do with it.
+
+    No warranty. 
 
 
 
