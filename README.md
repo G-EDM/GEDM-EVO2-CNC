@@ -25,7 +25,7 @@ Gantry based 3 axis CNC router with heavy duty 3d printed parts
 
 # This project is still a work in progress and not fully finished yet
 
-The GEDM-EVO2 Gantry Router uses heavy duty 3D printed parts, strong HGR20 linear rails, ballscrews and heavy profiles (40x80x160).
+The GEDM-EVO2 Gantry Router uses heavy duty 3D printed parts, strong HGR20 linear rails, ballscrews and heavy profiles (40x160).
 
 With only a few upgrades/changes it will be able to not only do EDM but also mill wood and smaller aluminum parts.
 
