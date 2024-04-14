@@ -23,6 +23,11 @@ The design is build around the multiuse concept. With only a few upgrades/change
 
 In order to do those milling jobs it may require a second ballscrew on the left side.
 
+
+<img src="./media/images/model-5.png">
+
+<img src="./media/images/model-4.png">
+
 <img src="./media/images/model-1.png">
 
 <img src="./media/images/model-2.png">
