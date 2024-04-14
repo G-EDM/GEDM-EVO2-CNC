@@ -31,6 +31,9 @@ With only a few upgrades/changes it will be able to not only do EDM but also mil
 
 In order to do those milling jobs it may require a second ballscrew on the left side.
 
+The wire extension used in the images is the one designed by Alex Treseder for the PicoEDM:
+https://github.com/alextreseder/picoEDM
+
 
 <img src="./media/images/model-5.png">
 
