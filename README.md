@@ -23,11 +23,15 @@ The design is build around the multiuse concept. With only a few upgrades/change
 
 In order to do those milling jobs it may require a second ballscrew on the left side.
 
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/model-1.png">
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/model-2.png">
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/model-3.png">
+<img src="./media/images/model-1.png">
+
+<img src="./media/images/model-2.png">
+
+<img src="./media/images/model-3.png">
+
 
 
 Not fully finished:
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/gantry-1.png">
+
+<img src="./media/images/gantry-1.png">
 
