@@ -1,0 +1,74 @@
+Acrylic glass:
+    1x 430x429x8mm
+    2x 420x152x5mm
+    2x 429x152x5mm
+    
+    4x 50x50x50mm acrily block to mount the stainless plate (Warning: The blocks are cutted from a thick plate/bar and the sides that are cut are most fo the time not accurate. Measure the block to find the accurate top/bottom. )
+    
+Glue:
+    1x Solvent (S-PolyBond® or similar. Viscosity like water)
+    1x Glue (Acrifix 1R 0192 or similar. Thicker glue fro acrylic used to seal the inner edges. Acrifix 0192 is UV reactive. It smells like hell and without a UV lamp it takes long to harden. A small UV pocket lamp is ok. If no UV lamp is available put the part into the sun. It does dry with room light too but takes very long and keeps smelling everything up. Acrifix 0190 is the non UV version.)
+
+
+Stainless steel plate:
+    1x 400x80x6mm
+
+Fittings for the hose:
+    2x 3/4" Female 1" Male Brass Bulkhead Fitting
+    1x 3/4" 13mm barbed brass hose fitting with outer thread (screwed into the big fitting)
+    
+    In germany there are sets available: https://www.ebay.de/itm/193008996748
+    
+Hose:
+    12mm ID hose.
+    
+Pump:
+    12v pump, 1000l/min, 30w https://www.amazon.de/gp/product/B0C3Q887C5
+    The pump in the link does not ship with hose fittings! If you get this specific model it needs two 1/2" barbed fittings with inner thread.
+
+Filter:
+    2 stage RO water filter. One stage with an activated carbon filter and the other sage with a 5 micron sediment filter.
+    https://www.amazon.de/Naturewater-Wandhalterung-Filterschl%C3%BCssel-Sedimentfilter-Aktivkohleblock/dp/B008U8BY90
+    
+    Depending on the filter you buy it may need another set of barbed fittings. This time with outer thread.
+
+
+
+
+Build tips:
+
+    Using the watery solvent is not easy. Good luck.
+    
+    I used the solvent to get the box together and then just poured solvent into the inner edges while having the box tilted. This way the solvent will suck into the joint where the connection is not done. Don't wait with this too long and do this as soon as the box can be moved without falling apart which happens fast.
+    
+    
+    If the solvent drops onto the acrylic don't wash it away. Let it vaporize! It will leave cloudy marks that later can be get rid of with a small lighter blow torch. Just blow torch it with a constant motion until it is transparent again. Same can be done with the edges of the box.
+    
+    One thing to keep in mind while flame polishing acrylic is that it creates stress in the plate. If solvent touches a flame polished surface it will instantly start to create cracks in the surface. In theory it is better not doing it and keep the milky spots.
+    
+    Using some sandpaper to round the edges and then blowtorch them shiny.
+    
+    
+    After the solvent vaporized and the box is stable the inner joint needs to be sealed. Tilt the box and fill the joint with the glue in a straight line. Let it crawl into the joint, give it some time to rest and then go one to the next edges. Process is repeated multiple times to have a strong and thick seal on every joint. Give it a little time between each pass to let it dry a little bit.
+    
+    
+    
+    
+    To drill the big hole I used a step drill bit and some smaller drills to predrill the initial hole.
+    
+    The step drill bit was a little too small so after having the main hole drilled I placed the fitting into the hole and used the small blow torch to heat it up until it started to soften the plastic. Do this carefully and step by step.
+    
+    After the fitting is in place remove the plastic from the edges and clean the hole.
+    
+    To get a really flat surface insert the fitting without gaskets, screw it tight and then heat the fitting from the inside again. It will align itself in place.
+    
+    Remove the hot fitting as soon as possible and also use a large M8 hex key to work with the hot fitting and prevent it from tilting.
+    
+    
+    The brass fitting will be too hot to handle with bare hands and it will take long until it cools down.
+    
+    
+    
+     
+
+
