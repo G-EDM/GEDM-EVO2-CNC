@@ -34,6 +34,10 @@ In order to do those milling jobs it may require a second ballscrew on the left 
 The wire extension used in the images is the one designed by Alex Treseder for the PicoEDM:
 https://github.com/alextreseder/picoEDM
 
+Not fully finished. Z axis is still missing and the massive aluminum plate on the front is temporary.
+
+
+<img src="./media/images/setup-1.jpg">
 
 <img src="./media/images/model-5.png">
 
@@ -44,12 +48,6 @@ https://github.com/alextreseder/picoEDM
 <img src="./media/images/model-2.png">
 
 <img src="./media/images/model-3.png">
-
-
-
-Not fully finished. Z axis is still missing and the massive aluminum plate on the front is temporary.
-
-<img src="./media/images/gantry-1.jpg">
 
 
 
