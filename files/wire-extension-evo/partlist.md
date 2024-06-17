@@ -145,7 +145,7 @@ This settings are only used for heavy duty parts.
 Add a thick layer adhesive to the Ender3v2 printbed. I used hairspray but that may not work for everyone.. Use an adhessive that works for the build plate of the printer.
 
 Layer height: 0.3mm
-Walls: 13 (wall print order: inner walls first for better overhangs)
+Walls: 14 (wall print order: inner walls first for better overhangs)
 Top/Bottom layers: 12
 Temperature: 230° for eSun PLA+
 
