@@ -5,3 +5,6 @@ The current contact I use is this one:
 https://de.aliexpress.com/item/1005007089428164.html
 
 There are multiple screw holes that can be used to mount other contacts too or build a custom contact.
+
+How to build it:
+https://www.youtube.com/watch?v=NhJeJGdWdE0
