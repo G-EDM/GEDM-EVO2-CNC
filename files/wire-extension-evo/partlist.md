@@ -16,6 +16,12 @@ If possible use stainless screws/nut/washers. Normal steel will rust fast.
 A few grams TPU to print the flushing nozzle seals
 
 
+##### Current contact #####
+    The are different holes that can be used to mount other/custom contacts too.
+    S010-0 current contact; 40mmx10mmx5mm
+    https://de.aliexpress.com/item/1005007089428164.html
+    https://www.ebay.de/itm/276514273684
+
 ##### Screws #####
 
      ### M3 ###  
