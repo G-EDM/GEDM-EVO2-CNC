@@ -35,9 +35,11 @@ The wire extension used in the images is the one designed by Alex Treseder for t
 https://github.com/alextreseder/picoEDM
 
 Not fully finished. Z axis is still missing and the massive aluminum plate on the front is temporary.
+
+Check out the youtube channel:
 [![Cutting stainless steel demo](https://img.youtube.com/vi/4GycnoLOGnc/maxresdefault.jpg)](https://youtu.be/4GycnoLOGnc)
 
-<img src="./media/images/setup-1.jpg">
+
 
 <img src="./media/images/model-5.png">
 
