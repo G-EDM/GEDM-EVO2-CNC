@@ -22,7 +22,7 @@ Schematics:
 - Sensing Unit EVO² - no
 ```
 ```diff
-- Motionboard EVO² - no
++ Motionboard EVO² - yes
 ```
 
 
