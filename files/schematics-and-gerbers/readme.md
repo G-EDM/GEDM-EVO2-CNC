@@ -19,7 +19,7 @@ Schematics:
 + Pulseboard EVO² - yes
 ```
 ```diff
-- Sensing Unit EVO² - no
++ Sensing Unit EVO² - no
 ```
 ```diff
 + Motionboard EVO² - yes
@@ -28,11 +28,11 @@ Schematics:
 
 Gerber files:
 ```diff
-- Pulseboard EVO² - no
++ Pulseboard EVO² - no
 ```
 ```diff
-- Sensing Unit EVO² - no
++ Sensing Unit EVO² - no
 ```
 ```diff
-- Motionboard EVO² - no
++ Motionboard EVO² - no
 ```
