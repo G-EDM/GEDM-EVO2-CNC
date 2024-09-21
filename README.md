@@ -15,6 +15,14 @@ Gantry based 3 axis CNC router with heavy duty 3d printed parts
 ```
 
 
+# Downloadlinks for the freecad files
+    The router file is a little crappy. The extrusions/tank/rails of the frame are not a the correct position and the Y ballscrew is too short etc.
+    But it can be used
+    
+    Wire extension: https://drive.google.com/file/d/1ZBrTBwRvTHIMtCySQIoWtpVMdJbfWR3E/view
+    EVOII Router: https://drive.google.com/file/d/1OkYVYsVrToy4-q0G6XMzgWKsSyYXRRj4/view
+
+
 # Responsible for the content provided
     Lautensack Roland (Germany)
     Contact: goblin-dev@proton.me
