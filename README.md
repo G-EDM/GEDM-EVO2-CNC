@@ -20,9 +20,9 @@ Gantry based 3 axis CNC router with heavy duty 3d printed parts
     But it can be used
 
 
-[>>> G-EDM EVOII Wire extension <<<](https://drive.google.com/file/d/1ZBrTBwRvTHIMtCySQIoWtpVMdJbfWR3E/view)
+[>>> G-EDM EVOII Wire extension FreeCAD Project <<<](https://drive.google.com/file/d/1ZBrTBwRvTHIMtCySQIoWtpVMdJbfWR3E/view)
 </br>
-[>>> G-EDM EVOII Router <<<](https://drive.google.com/file/d/1OkYVYsVrToy4-q0G6XMzgWKsSyYXRRj4/view)
+[>>> G-EDM EVOII Router FreeCAD Project <<<](https://drive.google.com/file/d/1OkYVYsVrToy4-q0G6XMzgWKsSyYXRRj4/view)
 </br>
 </br>
 
