@@ -15,7 +15,7 @@ SI 6018 94x20x0,18mm
 https://www.reichelt.de/silikon-isolierfolie-94x20x0-18mm-si-6018-p35415.html
 
 
-Heatsink for the Mosfets
+Heatsink for the Mosfets (bigger is better!)
 Fischer SK 48 75 SA
 https://www.reichelt.de/kuehlkoerper-75-mm-alu-2-k-w-sk-48-75-sa-p227791.html
 
