@@ -36,3 +36,14 @@ Gerber files:
 ```diff
 + Motionboard EVO² - yes
 ```
+
+BOM:
+```diff
++ Pulseboard EVO² - yes
+```
+```diff
++ Sensing Unit EVO² - yes
+```
+```diff
++ Motionboard EVO² - yes
+```
