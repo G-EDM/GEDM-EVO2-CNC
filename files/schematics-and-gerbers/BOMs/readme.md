@@ -7,7 +7,7 @@ There are other parts needed like:
 
 Isolation inserts for the msofet screwholes
 IB 16 TO-220, TOP-3
-https://www.reichelt.de/isolierbuchse-fuer-gehaeuse-to-220-top-3-ib-16-p211665.html?
+https://www.reichelt.de/isolierbuchse-fuer-gehaeuse-to-220-top-3-ib-16-p211665.html
 
 
 Silicone isolation foil for the msofet to heatsink connection
