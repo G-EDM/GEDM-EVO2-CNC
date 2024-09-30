@@ -5,12 +5,12 @@ No warranties. The BOMs may contain errors or miss parts. I have done them reall
 There are other parts needed like:
 
 
-Isolation inserts for the msofet screwholes
+Isolation inserts for the mosfet screwholes
 IB 16 TO-220, TOP-3
 https://www.reichelt.de/isolierbuchse-fuer-gehaeuse-to-220-top-3-ib-16-p211665.html
 
 
-Silicone isolation foil for the msofet to heatsink connection
+Silicone isolation foil for the mosfet to heatsink connection
 SI 6018 94x20x0,18mm
 https://www.reichelt.de/silikon-isolierfolie-94x20x0-18mm-si-6018-p35415.html
 
