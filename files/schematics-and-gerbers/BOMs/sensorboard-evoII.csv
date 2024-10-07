@@ -1,0 +1,70 @@
+Bezeichner,Footprint,Stückzahl,Bezeichnung,Anbieter und Referenz,,,Price per piece in Euros,Total
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"C17,C30",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,47pf not used,not used,,,,
+"C21,C22,C28,C35",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4,100pf50v X7R C0805C101J5RACTU,C0805C101J5RACTU,,,"0,055","0,22"
+"C2,C13,C18,C20,C23,C27,C31,C32,C34,C36,C37,C40,C45,C46",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,14,0.1uf-50v-x7r 08055C104K4T2A,08055C104K4T2A,,,"0,053","0,742"
+,,,,,,,,0
+C24,C_Disc_D5.1mm_W3.2mm_P5.00mm,1,C100pf500v KERKO-500 100P,KERKO-500 100P,,,"0,04","0,04"
+"C16,C39,C41,C44",CP_Radial_D5.0mm_P2.50mm,4,47uf63v RD1J476M6L011M18,RD1J476M6L011M18,,,"0,05","0,2"
+C26,CP_Radial_D8.0mm_P3.50mm,1,220uf35v RD1V227M0811M160,RD1V227M0811M160,,,"0,09","0,09"
+"C12,C25",CP_Radial_D10.0mm_P5.00mm,2,220uf50v RD1H227M1012M128,RD1H227M1012M128,,,"0,2","0,4"
+"C33,C38,C42,C43",CP_Radial_D5.0mm_P2.50mm,4,X not used,not used,,,,0
+,,,,,,,,0
+,,,,,,,,0
+"R38,R39",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,Zero Ohm RCC08050000Z0EA,RCC08050000Z0EA,,,"0,039","0,078"
+"R32,R35",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,200Ohm WRIS-RSKS 560112120015,560112120015,,,"0,073","0,146"
+"R3,R41",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,220 Ohm 5% ERJ-T06J221V,ERJ-T06J221V,,,"0,149","0,149"
+R26,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,560Ohm RK73B2ATTD561J,RK73B2ATTD561J,,,"0,015","0,015"
+"R20,R21,R25,R27",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,1kOhm 5% ERJ-T06J102V (better 1%),ERJ-T06J102V,,,"0,065","0,26"
+"R4,R30",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,4k7 1% RCC08054K70FKEA,RCC08054K70FKEA,,,"0,043","0,086"
+"R10,R19,R22,R23,R24,R28",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,6,10k 1% WRIS-RSKS 560112120004 ,560112120004,,,"0,13","0,78"
+"R11,R17,R34,R37",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,20k 1% RK73H2ARTTD2002F,RK73H2ARTTD2002F,,,"0,146","0,584"
+"R16,R18,R29,R36",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,100k 1% Würth WRIS-RSKS 560112120013,560112120013,,,"0,13","0,52"
+"R40,R43",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,not used,not used,,,,0
+,,,,,,,,0
+R44,R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical,1,1kOhm 1W MBE04140C1001FC100,MBE04140C1001FC100,,,"0,289","0,289"
+,,,,,,,,0
+,,,,,,,,0
+"RV4,RV2,RV1,RV3",Potentiometer_Bourns_3296W_Vertical,4,3296W Poti 10kOhm 3296W-1-103LF,3296W-1-103LF,,,"2,17","8,68"
+,,,,,,,,0
+,,,,,,,,0
+"J1,J9,J10,J11",JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,4,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,JST_XH_S2B-XH-A,,,"0,23","0,92"
+J3,JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,1,JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,JST_XH_S3B-XH-A,,,"0,28","0,28"
+"J14,J13",JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,2,JST XHP-2,JST XHP-2,,,"0,15","0,3"
+J5,TE connectivity 2 pole terminal 5mm grid,1,female,1776138-2,1776138-2,,"0,67","0,67"
+J5,TE connectivity 2 pole terminal 5mm grid,1,male,796641-2,796641-2,,1,1
+,,,,,,,,0
+,,,,,,,,0
+"IC1,IC2",SOIC127P600X175-8N,2,OPA350UA single channel OpAmp,OPA350UA,,,"2,59","5,18"
+"IC6,IC9",SOP-8_3.9x4.9mm_P1.27mm,2,OPA2350UA dual channel OpAmp,OPA2350UA,,,"4,1","8,2"
+"IC8,IC3",SOP254P1230X400-8N,2,HCNR201-500E,HCNR201-500E,,,"5,48","10,96"
+"IC4,IC7",SOP-8_3.9x4.9mm_P1.27mm,2,LM358F-GE2 ,LM358F-GE2,,,"0,495","0,99"
+J12,DIP-6_W7.62mm_LongPads,1,PCB3007-1 Adapter,PCB3007-1,,,"2,4","2,4"
+J12,PCB3007-1 Adapter,1,INA293B3QDBVRQ1 current sensor ic,INA293B3QDBVRQ1,,,"3,23","3,23"
+,,,,,,,,0
+,,,,,,,,0
+JP3,PinHeader_1x02_P2.54mm_Vertical,1,1x02 pin header (not used),,,,,0
+JP1,PinHeader_1x02_P2.54mm_Vertical,1,1x02 pin header,,,,"0,06","0,06"
+JP1,jumper cap,1,jumper cap 149-3-002-F0-XS,149-3-002-F0-XS,,,"0,12","0,12"
+,,,,,,,,0
+,,,,,,,,0
+D2,D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp,1,5.1v Zener (Not used),not used,,,,0
+"D9,D8",D_DO-201_P5.08mm_Vertical_AnodeUp,2,1N5379B 100v or 110v Zener,1N5379B,,,"0,304","0,608"
+"D5,D11",LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,SM0805UGC,SM0805UGC,,,"0,357","0,714"
+D10,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,APT2012LVBC/D ,APT2012LVBC/D,,,"0,368","0,368"
+,,,,,,,,0
+,,,,,,,,0
+PS1,RS3K2405SZH3,1,RS3K-2405SZ/H3 isolated DC/DC converter 5v,RS3K-2405SZ/H3,,,"7,89","7,89"
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,"57,169"
