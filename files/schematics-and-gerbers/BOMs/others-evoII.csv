@@ -1,0 +1,29 @@
+Stückzahl,Bezeichnung,,,Price pre piece in Euro,Total,,Datasheets
+,,,,,,,
+,,,,,,,
+1,"Switching PSU, 12A 800W 65v",,,"72,71","72,71",,https://www.ebay.de/itm/395514808705
+1,DPM8605 0-60v 0-5A 300W TTL/CMOS,,,"47,52","47,52",,https://www.ebay.de/itm/364243372630
+1,"Switching PSU, 10A 120W 12v",,,"18,97","18,97",,https://www.ebay.de/itm/314155994709
+1,Amplifier DIY enclosure,,,"109,99","109,99",,https://www.ebay.de/itm/254154113548
+7,"Lapp ÖLFLEX CLASSIC 110 CY 4x0,75mm² shielded wire",,,3,21,,https://www.ebay.de/itm/264470575385
+5,"Lapp ÖLFLEX CLASSIC 110 CY 2x0,5mm² shielded wire",,,3,15,,https://www.ebay.de/itm/275154935636
+1,"DC connector female socket 5,5x2,5mm",,,"3,5","3,5",,https://www.ebay.de/itm/374396760936
+1,IEC socket,,,5,5,,
+1,IEC (power) connector wire,,,15,15,,
+1,ESP32 NodeMCU WROOM32 38 Pin Azdelivery,,,"11,49","11,49",,https://www.ebay.de/itm/144215008485
+4,Silentstepstick TMC2209,,,"10,62","42,48",,
+1,PLA+ Filament 300g (300g is just a very rough number),,,10,10,,
+1,TPU Filament 200g (200g is just a very rough number),,,10,10,,
+1,"Hailege 2.4"" ILI9341 240x320 SPI TFT LCD Display Touch",,,"15,99","15,99",,
+1,On/Off switch,,,1,1,,https://www.amazon.de/Wippschalter-2-polig-KCD1-Schalter-Haushaltsger%C3%A4te-Schwarz
+1,"Different JST wires.. 2pole, 13pole, 3 pole 4 pole",,,25,25,,
+1,40mm fan (I use 24v running it at 12v for silence),,,5,5,,
+1,120mm fan artic P12 silent 3pole,,,10,10,,
+,,,,,,,
+,,,,,,,
+,,,,,"439,65",,
+,,,,,,,
+,Note: Cheap fans can introduce more noise in the system.,,,,,,
+,Also high speed fans are also not recommended.,,,,,,
+,,,,,,,
+,The prices are ebay/amazon prices and it should be no problem to get it down a little,,,,,,
