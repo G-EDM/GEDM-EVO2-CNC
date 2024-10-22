@@ -1,0 +1,62 @@
+### Footprint positions - created on Di 22 Okt 2024 19:30:10 CEST ###
+### Printed by KiCad version 7.0.7+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                                           Package                                               PosX       PosY       Rot  Side
+C2        08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        57.2262   -58.4200  180.0000  top
+C13       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       103.7336   -48.6664  -90.0000  top
+C18       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       106.1974   -57.0738  180.0000  top
+C20       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        60.4012   -69.6507   90.0000  top
+C21       C0805C101J5RACTU                              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        97.3328   -88.0071   90.0000  top
+C22       C0805C101J5RACTU                              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       120.7770   -92.1981  -90.0000  top
+C23       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       116.3066   -90.2931  -90.0000  top
+C27       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       114.1515   -96.9264    0.0000  top
+C28       C0805C101J5RACTU                              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        58.9069   -96.8463  -90.0000  top
+C31       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       101.2444   -83.7653   90.0000  top
+C32       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        97.4383   -65.2526  180.0000  top
+C34       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        70.5573   -89.7890    0.0000  top
+C35       C0805C101J5RACTU                              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        77.7494   -87.8801   90.0000  top
+C36       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        80.4418   -83.7653   90.0000  top
+C37       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        76.8350   -65.3542  180.0000  top
+C40       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        85.1916   -57.0738  180.0000  top
+C45       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        86.7879   -84.8868    0.0000  top
+C46       08055C104K4T2A                                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       108.8605   -85.1154  180.0000  top
+D5        SM0805UGC                                     LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder      60.4266   -78.5204   90.0000  top
+D10       APT2012LVBC/D                                 LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     117.7290   -53.6104   90.0000  top
+D11       SM0805UGC                                     LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     101.5746   -38.7186  -90.0000  top
+IC1       OPA350UA                                      SOIC127P600X175-8N                                 64.3568   -92.2716    0.0000  top
+IC2       OPA350UA                                      SOIC127P600X175-8N                                118.1987   -85.3718  180.0000  top
+IC3       HCNR201-500E                                  SOP254P1230X400-8N                                 99.9998   -74.0918   90.0000  top
+IC4       LM358F-GE2                                    SOP-8_3.9x4.9mm_P1.27mm                           103.0519   -89.6827    0.0000  top
+IC6       OPA2350UA                                     SOP-8_3.9x4.9mm_P1.27mm                           104.6138   -61.6966    0.0000  top
+IC7       LM358F-GE2                                    SOP-8_3.9x4.9mm_P1.27mm                            83.5406   -89.7636    0.0000  top
+IC8       HCNR201-500E                                  SOP254P1230X400-8N                                 79.1972   -74.0664   90.0000  top
+IC9       OPA2350UA                                     SOP-8_3.9x4.9mm_P1.27mm                            83.6168   -61.6966    0.0000  top
+R3        ERJ-T06J221V                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       117.7290   -48.5394   90.0000  top
+R4        RCC08054K70FKEA                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       109.4326   -89.6112   90.0000  top
+R10       560112120004                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       110.3564   -92.9038    0.0000  top
+R11       RK73H2ARTTD2002F                              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        99.0600   -60.0964   90.0000  top
+R16       560112120013                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        94.9960   -88.0286  -90.0000  top
+R17       RK73H2ARTTD2002F                              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        96.3422   -60.0964  -90.0000  top
+R18       560112120013                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       109.6518   -67.4210   90.0000  top
+R19       560112120004                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        90.4494   -88.5284  -90.0000  top
+R20       ERJ-T06J102V                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       123.3424   -92.1926   90.0000  top
+R21       ERJ-T06J102V                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       128.6559   -85.7827  -90.0000  top
+R22       560112120004                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        90.4494   -93.1098  -90.0000  top
+R23       560112120004                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       114.1128   -62.2554  180.0000  top
+R24       560112120004                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       111.0996   -59.8678   90.0000  top
+R25       ERJ-T06J102V                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        56.2653   -96.8088   90.0000  top
+R26       RK73B2ATTD561J                                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        60.4012   -73.9996   90.0000  top
+R27       ERJ-T06J102V                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        53.9496   -92.3638  -90.0000  top
+R28       560112120004                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        71.0184   -93.7006  180.0000  top
+R29       560112120013                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        75.3110   -87.9254  -90.0000  top
+R30       RCC08054K70FKEA                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        72.0598   -97.1644  -90.0000  top
+R32       560112120015                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        77.8002   -83.5500  -90.0000  top
+R34       RK73H2ARTTD2002F                              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        75.6920   -60.0202  -90.0000  top
+R35       560112120015                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        98.6536   -83.5566  -90.0000  top
+R36       560112120013                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        88.7730   -67.4370   90.0000  top
+R37       RK73H2ARTTD2002F                              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        78.2574   -60.0202   90.0000  top
+R38       RCC08050000Z0EA                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        86.3092   -67.4370   90.0000  top
+R39       RCC08050000Z0EA                               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       107.1880   -67.4370   90.0000  top
+R41       ERJ-T06J221V                                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       101.6000   -43.5008  -90.0000  top
+## End

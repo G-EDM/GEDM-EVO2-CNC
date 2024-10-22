@@ -1,0 +1,32 @@
+### Footprint positions - created on Di 22 Okt 2024 15:41:16 CEST ###
+### Printed by KiCad version 7.0.7+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                                      Package                                               PosX       PosY       Rot  Side
+C3        08055C104K4T2A                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        39.0183   -32.6136  180.0000  bottom
+C6        08055C104K4T2A                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        94.8475   -47.7440  180.0000  bottom
+C8        08055C104K4T2A                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        88.2904   -47.7440  180.0000  bottom
+C10       08055C104K4T2A                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        47.7520   -32.5628    0.0000  bottom
+C29       GRM32RR71H105KA01K                       C_1210_3225Metric_Pad1.33x2.70mm_HandSolder        62.8527   -44.6532    0.0000  bottom
+D18       B360A-E3/61T                             D_SMA_Handsoldering                                32.0548   -39.3954  180.0000  bottom
+D19       B360A-E3/61T                             D_SMA_Handsoldering                                34.5948   -46.9246  -90.0000  bottom
+C1        08055C104K4T2A                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        87.8332   -35.9918  180.0000  top
+D1        B360A-E3/61T                             D_SMA_Handsoldering                                81.2797   -64.5758    0.0000  top
+D3        B360A-E3/61T                             D_SMA_Handsoldering                               100.8411   -64.6266    0.0000  top
+D6        B360A-E3/61T                             D_SMA_Handsoldering                                40.9879   -64.0650    0.0000  top
+D7        B360A-E3/61T                             D_SMA_Handsoldering                                60.9597   -64.6266    0.0000  top
+D13       SM0805UGC                                LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder     114.4524   -46.4058  180.0000  top
+IC5       6N137S                                   PDIP-8-SMD                                              97.0280   -32.2072  180.0000  top
+R1        560112120015                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       106.0544   -30.9372    0.0000  top
+R2        560112120004                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        88.8746   -31.9118   90.0000  top
+R5        ERJ-U12F1001U                            R_1812_4532Metric_Pad1.30x3.40mm_HandSolder        50.0278  -100.0506  180.0000  top
+R6        RC2512JK-7W4R7L                          R_2512_6332Metric_Pad1.40x3.35mm_HandSolder        80.7484   -59.8006  180.0000  top
+R7        RC2512JK-7W4R7L                          R_2512_6332Metric_Pad1.40x3.35mm_HandSolder       100.4113   -59.8006  180.0000  top
+R8        RK73B2ETTD104J                           R_1210_3225Metric                                  88.9474   -62.9265   90.0000  top
+R9        RK73B2ETTD104J                           R_1210_3225Metric                                 108.5596   -62.9412   90.0000  top
+R12       RC2512JK-7W4R7L                          R_2512_6332Metric_Pad1.40x3.35mm_HandSolder        40.5943   -59.3152  180.0000  top
+R13       RC2512JK-7W4R7L                          R_2512_6332Metric_Pad1.40x3.35mm_HandSolder        60.3775   -59.9530  180.0000  top
+R14       RK73B2ETTD104J                           R_1210_3225Metric                                  48.7426   -62.3796   90.0000  top
+R15       RK73B2ETTD104J                           R_1210_3225Metric                                  68.2896   -62.9519   90.0000  top
+R42       RK73B2ATTD561J                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       109.8296   -46.4058  180.0000  top
+## End
