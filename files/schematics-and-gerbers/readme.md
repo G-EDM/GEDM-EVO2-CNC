@@ -1,3 +1,16 @@
+The PCBs can be ordered on PCBway using following links:
+
+# Sensorboard
+https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_sensorboard_24b74366.html
+
+# Pulseboard
+https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_pulseboard_8975f488.html
+
+# Motionboard
+https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_34e1e043.html
+
+
+
 The full electronic enclosure contains the control panel with the ESP32 motion controller and a touch screen and the spark generator.
 
 The pulseboard and the sensing unit are two dedicated PCBs stacked on top of eachother.
