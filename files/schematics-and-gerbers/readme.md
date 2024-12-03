@@ -16,10 +16,10 @@ https://www.pcbway.com/project/shareproject/G_EDM_EVOIII_board_Low_budget_DIY_Wi
 
 # If the EVOIII board is used the following two PCBs are not needed.
 
-# Sensorboard 
+# Sensorboard (Not needed if the EVOIII board is used)
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_sensorboard_24b74366.html
 
-# Pulseboard
+# Pulseboard (Not needed if the EVOIII board is used)
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_pulseboard_8975f488.html
 
 
