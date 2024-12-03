@@ -1,13 +1,24 @@
+# Update
+
+Added the new EVOIII PCB. This board was designed for easier manufacturing and is a replacement for the sensorboard and the pulseboard. It has both integrated on a single PCB.
+
+
+
 The PCBs can be ordered on PCBway using following links:
 
-# Sensorboard
+# Motionboard
+https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_34e1e043.html
+
+# EVOIII Board (Sensorboard and Pulseboard on one PCB)
+https://www.pcbway.com/project/shareproject/G_EDM_EVOIII_board_Low_budget_DIY_Wire_EDM_machine_482d5b7a.html
+
+If the EVOIII board is used the following two PCBs are not needed.
+
+# Sensorboard 
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_sensorboard_24b74366.html
 
 # Pulseboard
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_pulseboard_8975f488.html
-
-# Motionboard
-https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_34e1e043.html
 
 
 
