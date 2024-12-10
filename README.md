@@ -1,3 +1,9 @@
+# Schematics, Gerber files and Kicad projects for the PCBs
+
+    https://github.com/G-EDM/GEDM-EVO2-CNC/tree/main/files/schematics-and-gerbers
+
+
+
 # GEDM-EVO2-CNC
 Gantry based 3 axis CNC router with heavy duty 3d printed parts
 
