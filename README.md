@@ -1,5 +1,5 @@
 # Schematics, Gerber files and Kicad projects for the PCBs
-[>>> Schematics, Gerber files and Kicad projects <<<](https://github.com/G-EDM/GEDM-EVO2-CNC/tree/main/files/schematics-and-gerbers)
+[>>> Schematics, Gerber files, Kicad projects and PCBway links <<<](https://github.com/G-EDM/GEDM-EVO2-CNC/tree/main/files/schematics-and-gerbers)
 </br>
 </br>
 
