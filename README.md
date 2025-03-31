@@ -108,7 +108,7 @@ Check out the youtube channel:
 
     * Developement is not always as fast as it could be if you're poor. You want to donate something? 
     * Paypal: paypal.me/gedmdev
-    * Bitcoin: bc1q9akp00a5hceh9n3jc9wfttxuwuk9c7da0sqkr8
+    * Bitcoin: bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
     
 <img src="https://raw.githubusercontent.com/G-EDM/G-EDM/main/images/artwork/donations/donate.png">
 
